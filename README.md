@@ -2,6 +2,9 @@
 # 📊 Return Analysis Dashboard
 
 An interactive **Power BI dashboard** developed to analyze product returns, returned sales, profit loss, and return trends using the **Sample Superstore dataset**.
+## 📷 Dashboard Preview
+
+![Return Analysis Dashboard](Return%20analysis%20dashboard.jpeg)
 
 ## 🎯 Project Objective
 
